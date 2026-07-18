@@ -1,0 +1,5 @@
+order_id,customer_id,order_amount,order_date,customer_name,customer_country
+1,101,250,2023-01-01,Alice,USA
+2,102,150,2023-01-02,Bob,Canada
+3,103,300,2023-01-03,Charlie,UK
+4,104,400,2023-01-04,David,Australia
